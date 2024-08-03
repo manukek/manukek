@@ -3,7 +3,7 @@
 
 # Привет! Я Manukq 👋
 
-Я молодой Frontend и Backend разработчик. Мне нравится создавать сайты и программы, и я всегда стремлюсь к новым знаниям и навыкам. 🌟
+Я Frontend и Backend разработчик. Мне нравится создавать сайты и программы, и я всегда стремлюсь к новым знаниям и навыкам. 🌟
 
 ## Мой опыт с языками и инструментами 🛠️
 
@@ -18,6 +18,7 @@
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 - ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 - ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Мой опыт с программами 💻
 
