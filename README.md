@@ -1,9 +1,10 @@
+Вот обновленный README с добавленной иконкой для Lua:
 
 ---
 
 # Привет! Я Manukq 👋
 
-Я Frontend и Backend разработчик. Мне нравится создавать сайты и программы, и я всегда стремлюсь к новым знаниям и навыкам. 🌟
+Я молодой Frontend и Backend разработчик. Мне нравится создавать сайты и программы, и я всегда стремлюсь к новым знаниям и навыкам. 🌟
 
 ## Мой опыт с языками и инструментами 🛠️
 
@@ -17,13 +18,19 @@
 - ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 - ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ## Мой опыт с программами 💻
 
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-8A6DFF?style=for-the-badge&logo=pterodactyl&logoColor=white)
-- ![D.D.P](https://img.shields.io/badge/DDP/bots-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+- ![Discord Developer Portal](https://img.shields.io/badge/Discord%20Developer%20Portal-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+- ![Google SketchUp](https://img.shields.io/badge/Google%20SketchUp-6C9ACC?style=for-the-badge&logo=google&logoColor=white)
+- ![LEGO Digital Designer](https://img.shields.io/badge/LEGO%20Digital%20Designer-F8C300?style=for-the-badge&logo=lego&logoColor=white)
+- ![Scratch](https://img.shields.io/badge/Scratch-4A97B9?style=for-the-badge&logo=scratch&logoColor=white)
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 Буду рад познакомиться и обсудить интересные проекты! 🤝
 
