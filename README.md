@@ -1,4 +1,3 @@
-
 ---
 
 # Привет! Я Manukq 👋
@@ -31,6 +30,16 @@
 - ![Scratch](https://img.shields.io/badge/Scratch-4A97B9?style=for-the-badge&logo=scratch&logoColor=white)
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Blockbench](https://img.shields.io/badge/Blockbench-7C7C7C?style=for-the-badge&logo=blockbench&logoColor=white)
+- ![MCreator](https://img.shields.io/badge/MCreator-FFD700?style=for-the-badge&logo=mc-creator&logoColor=black)
+- ![WinSCP](https://img.shields.io/badge/WinSCP-003C6C?style=for-the-badge&logo=winscp&logoColor=white)
+
+## Опыт с операционными системами 🖥️
+
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 Буду рад познакомиться и обсудить интересные проекты! 🤝
 
