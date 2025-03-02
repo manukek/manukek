@@ -24,22 +24,14 @@
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-8A6DFF?style=for-the-badge&logo=pterodactyl&logoColor=white)
-- ![Discord Developer Portal](https://img.shields.io/badge/Discord%20Developer%20Portal-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-- ![Google SketchUp](https://img.shields.io/badge/Google%20SketchUp-6C9ACC?style=for-the-badge&logo=google&logoColor=white)
-- ![LEGO Digital Designer](https://img.shields.io/badge/LEGO%20Digital%20Designer-F8C300?style=for-the-badge&logo=lego&logoColor=white)
-- ![Scratch](https://img.shields.io/badge/Scratch-4A97B9?style=for-the-badge&logo=scratch&logoColor=white)
-- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-- ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - ![Blockbench](https://img.shields.io/badge/Blockbench-7C7C7C?style=for-the-badge&logo=blockbench&logoColor=white)
-- ![MCreator](https://img.shields.io/badge/MCreator-FFD700?style=for-the-badge&logo=mc-creator&logoColor=black)
 - ![WinSCP](https://img.shields.io/badge/WinSCP-003C6C?style=for-the-badge&logo=winscp&logoColor=white)
 
 ## Опыт с операционными системами 🖥️
 
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 Буду рад познакомиться и обсудить интересные проекты! 🤝
 
