@@ -18,13 +18,6 @@
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=manukek&show_icons=true&theme=cobalt" alt="GitHub Stats" />
   </p>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manukek/manukek/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manukek/manukek/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manukek/manukek/output/github-contribution-grid-snake.svg" style="max-width:100%;" />
-    </picture>
-  </p>
   
   <hr style="border: none; border-top: 2px dashed #444; margin: 1.5em 0;" />
   
