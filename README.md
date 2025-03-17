@@ -16,7 +16,10 @@
 ## 📊 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manukek&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manukek&show_icons=true&theme=cobalt" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manukek&theme=vue-dark&border_radius=5&locale=ru&short_numbers=true" />
 </p>
 
 ---
