@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&pause=1000&width=435&lines=Frontend+%2B+Backend+Разработчик;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+Кодить+(по+настроению);%D0%A1%D0%94%D0%92%D0%93+Программист" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&pause=1000&width=435&lines=Frontend+%2B+Backend+Разработчик;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+Кодить+(как+карта+ляжет)" alt="Typing SVG" />
 </p>
 
 <div align="center" style="border-top: 2px solid #444; margin: 2em 0; padding-top: 1em;">
