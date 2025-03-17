@@ -16,7 +16,7 @@
 ## 📊 Статистика
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manukek&theme=react&border_radius=5&locale=ru&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manukek&show_icons=true" />
 </p>
 
 ---
