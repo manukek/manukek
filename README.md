@@ -9,7 +9,7 @@
 <div align="center" style="border-top: 2px solid #444; margin: 2em 0; padding-top: 1em;">
   <h2 style="font-family: 'Unbounded', cursive; color: #6c5ce7;">🛠️ Мой стек</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,npm,python,cs,nginx" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,npm,cs,nginx,md" alt="Tech Stack" />
   </p>
   
   <hr style="border: none; border-top: 2px dashed #444; margin: 1.5em 0;" />
