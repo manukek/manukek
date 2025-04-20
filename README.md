@@ -41,8 +41,3 @@
 </div>
 
 ---
-
-<h2 align="center" style="font-family: 'Unbounded', cursive; font-size: 2em; margin-top: 1em;">⚡ Фан факт</h2>
-<p align="center" style="font-size: 1.2em; color: #636e72;">
-  "Вайбкодинг - это просто форма говнокодинга."
-</p>
