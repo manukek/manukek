@@ -18,7 +18,6 @@
 ## <div align="center">📊 Моя GitHub статистика</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manukek&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=manukek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
 </div>
 
