@@ -11,14 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=manukek&color=yellow&style=for-the-badge" alt="Счетчик просмотров профиля"/>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manukek/manukek/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manukek/manukek/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/manukek/manukek/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 ## <div align="center">📊 Моя GitHub статистика</div>
 
 <div align="center">
