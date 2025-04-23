@@ -10,6 +10,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manukek&color=yellow&style=for-the-badge" alt="Счетчик просмотров профиля"/>
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manukek/manukek/output/snake.svg" />
+</div>
 
 ## <div align="center">📊 Моя GitHub статистика</div>
 
