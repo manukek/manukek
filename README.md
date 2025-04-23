@@ -79,7 +79,7 @@
 ## <div align="center">🎵 Последнее прослушанное</div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t6aou46kfjndw4cwkwpzsbhcgy&count=1" alt="Spotify недавно прослушанное"/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t6aou46kfjndw4cwkwpzsbhcgy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31t6aou46kfjndw4cwkwpzsbhcgy&redirect=true)
 </div>
 
 ## <div align="center">📫 Связаться со мной</div>
