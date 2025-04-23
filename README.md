@@ -1,43 +1,109 @@
-<h1 align="center" style="font-family: 'Unbounded', cursive; font-size: 3em; margin-bottom: 0.2em;">
-  Привет! Я Manukq 👋
-</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&pause=1000&width=435&lines=Frontend+%2B+Backend+Разработчик;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+Кодить+(как+карта+ляжет)" alt="Typing SVG" />
-</p>
+# <div align="center">✨ Привет, мир! Я Manukq 👋</div>
 
----
+<div align="center">
+<h3 class="text">
+Программист - самоучка
+</h3>
+</div>
 
-<div align="center" style="margin: 2em 0;">
-  <h2 style="font-family: 'Unbounded', cursive; color: #6c5ce7;">🛠️ Мой стек</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=manukek&color=yellow&style=for-the-badge" alt="Счетчик просмотров профиля"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Анимейшн"/>
+</div>
+
+## <div align="center">📊 Моя GitHub статистика</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manukek&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manukek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manukek&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=manukek&theme=discord&no-frame=true&column=3&row=2" width="49%" alt="GitHub Trophy"/>
+</div>
+
+## <div align="center">🚀 Стек разработки</div>
+
+<div align="center">
+  <h3>👨‍💻 Языки программирования</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,ts,npm,cs,nginx,md,php,vue,nuxt" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/>
+    <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
+    <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/>
   </p>
+  
+  <h3 align="center">🌐 Frontend</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
+    <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue.js"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
+  </p>
+  
+  <h3 align="center">⚙️ Backend</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
+    <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".NET"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
+  </p>
+  
+  <h3 align="center">🛢️ Базы данных</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
+  </p>
+  
+  <h3 align="center">🧰 Инструменты и DevOps</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="GitLab"/>
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="NGINX"/>
+    <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
+    <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="Webpack"/>
+    <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
+        <img src="https://skillicons.dev/icons?i=gradle" width="45" height="45" alt="Gradle"/>
+  </p>
+</div>
+
+## <div align="center">🌟 Статистика</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manukek&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## <div align="center">🎵 Последнее прослушанное</div>
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t6aou46kfjndw4cwkwpzsbhcgy&count=1" alt="Spotify недавно прослушанное"/>
+</div>
+
+## <div align="center">📫 Связаться со мной</div>
+
+<div align="center">
+  <a href="https://discord.com/users/1030860815915548693" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/manukqq" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="45" height="45" alt="Telegram"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/manukek" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 ---
 
-<div align="center" style="margin: 2em 0;">
-  <h2 style="font-family: 'Unbounded', cursive; color: #00b894;">📊 Статистика</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=manukek&show_icons=true&theme=cobalt" alt="GitHub Stats" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manukek&layout=compact&theme=cobalt" alt="Top Languages" />
-  </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=90" width="100%" alt="Wave Footer"/>
 </div>
-
----
-
-<div align="center" style="margin: 2em 0;">
-  <h2 style="font-family: 'Unbounded', cursive; color: #0984e3;">🔗 Где меня найти?</h2>
-  <p>
-    <a href="https://discord.com/users/1030860815915548693" style="margin-right: 1em;">
-      <img src="https://img.shields.io/badge/Discord-%237295DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://t.me/manukqq" style="margin-right: 1em;">
-      <img src="https://img.shields.io/badge/Telegram-%237289DA?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
-    </a>
-  </p>
-</div>
-
----
