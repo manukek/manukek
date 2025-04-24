@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manukek&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manukek&theme=tokyonight&hide_border=true&layout=compact" width="55%" alt="Top Languages"/>
   <img src="https://github-profile-trophy.vercel.app/?username=manukek&theme=discord&no-frame=true&column=3&row=2" width="49%" alt="GitHub Trophy"/>
 </div>
 
