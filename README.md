@@ -1,4 +1,3 @@
-
 # <div align="center">✨ Привет, мир! Я Manukq 👋</div>
 
 <div align="center">
@@ -63,12 +62,18 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
     <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="GitLab"/>
-        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
     <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="NGINX"/>
     <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
     <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="Webpack"/>
     <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
-        <img src="https://skillicons.dev/icons?i=gradle" width="45" height="45" alt="Gradle"/>
+    <img src="https://skillicons.dev/icons?i=gradle" width="45" height="45" alt="Gradle"/>
+  </p>
+  
+  <h3 align="center">💻 Операционная система</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=fedora" width="45" height="45" alt="Fedora"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/KDE_logo.svg" width="45" height="45" alt="KDE"/>
   </p>
 </div>
 
