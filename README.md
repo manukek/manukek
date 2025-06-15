@@ -73,7 +73,6 @@
 <h3 align="center">💻 Операционная система</h3>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="48" height="48" alt="Fedora" style="border-radius: 10px; margin-right: 8px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/KDE_logo.svg" width="48" height="48" alt="KDE" style="border-radius: 10px;" />
 </p>
 <p align="center" style="font-weight: bold; font-family: sans-serif; color: #4da6ff;">
   Fedora KDE Plasma 42
