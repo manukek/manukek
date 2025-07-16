@@ -32,8 +32,7 @@
     <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
     <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/>
     <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/>
-    <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/>
-    <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP"/>
+    <img src="https://skillicons.dev/icons?i=golang" width="45" height="45" alt="golang"/>
   </p>
   
   <h3 align="center">🌐 Frontend</h3>
@@ -41,7 +40,6 @@
     <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
     <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
     <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
-    <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue.js"/>
     <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
   </p>
   
@@ -49,7 +47,6 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
     <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".NET"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
   </p>
   
   <h3 align="center">🛢️ Базы данных</h3>
@@ -61,23 +58,9 @@
   <h3 align="center">🧰 Инструменты и DevOps</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-    <img src="https://skillicons.dev/icons?i=gitlab" width="45" height="45" alt="GitLab"/>
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
     <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="NGINX"/>
-    <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
-    <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="Webpack"/>
     <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
-    <img src="https://skillicons.dev/icons?i=gradle" width="45" height="45" alt="Gradle"/>
   </p>
-  
-<h3 align="center">💻 Операционная система</h3>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="48" height="48" alt="Fedora" style="border-radius: 10px; margin-right: 8px;" />
-</p>
-<p align="center" style="font-weight: bold; font-family: sans-serif; color: #4da6ff;">
-  Fedora KDE Plasma 42
-</p>
-</div>
 
 ## <div align="center">🌟 Статистика Активности</div>
 
