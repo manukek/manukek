@@ -1,0 +1,105 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Update stats
+        run: |
+          npm install @octokit/rest
+          
+          cat > update.js << 'EOF'
+          const { Octokit } = require("@octokit/rest");
+          const fs = require("fs");
+          
+          const octokit = new Octokit({
+            auth: process.env.GITHUB_TOKEN,
+          });
+          
+          async function updateStats() {
+            const username = "manukek";
+            
+            try {
+              const { data: user } = await octokit.rest.users.getByUsername({
+                username,
+              });
+              
+              const { data: repos } = await octokit.rest.repos.listForUser({
+                username,
+                type: "owner",
+                per_page: 100,
+              });
+              
+              const totalStars = repos.reduce((sum, repo) => sum + repo.stargazers_count, 0);
+              const totalForks = repos.reduce((sum, repo) => sum + repo.forks_count, 0);
+              const totalRepos = repos.length;
+              const followers = user.followers;
+              const following = user.following;
+              
+              let readme = fs.readFileSync("README.md", "utf8");
+              
+              readme = readme.replace(
+                /totalStars:\s*\d+,/g,
+                `totalStars:  ${totalStars},`
+              );
+              readme = readme.replace(
+                /totalRepos:\s*\d+,/g,
+                `totalRepos:  ${totalRepos},`
+              );
+              readme = readme.replace(
+                /totalForks:\s*\d+,/g,
+                `totalForks:  ${totalForks},`
+              );
+              readme = readme.replace(
+                /followers:\s*\d+,/g,
+                `followers:   ${followers},`
+              );
+              readme = readme.replace(
+                /following:\s*\d+,/g,
+                `following:   ${following},`
+              );
+              
+              const timestamp = new Date().toISOString().replace('T', ' ').substring(0, 19) + ' UTC';
+              readme = readme.replace(
+                /<!-- TIMESTAMP -->.*<!-- \/TIMESTAMP -->/g,
+                `<!-- TIMESTAMP -->${timestamp}<!-- /TIMESTAMP -->`
+              );
+              
+              fs.writeFileSync("README.md", readme);
+              
+              console.log(`Updated stats: ${totalStars} stars, ${totalRepos} repos, ${totalForks} forks, ${followers} followers`);
+              
+            } catch (error) {
+              console.error("Error:", error.message);
+              process.exit(1);
+            }
+          }
+          
+          updateStats();
+          EOF
+          
+          node update.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update stats"
+            git push
+          fi
