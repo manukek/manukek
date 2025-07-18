@@ -17,6 +17,15 @@ type manukq struct {
     databases []string
     tools     []string
     contacts  map[string]string
+    github    githubStats
+}
+
+type githubStats struct {
+    totalStars  int
+    totalRepos  int
+    totalForks  int
+    followers   int
+    following   int
 }
 
 func (m *manukq) whoami() {
@@ -39,6 +48,15 @@ func (m *manukq) stack() {
     }
 }
 
+func (m *manukq) githubStats() {
+    fmt.Println("\n=> github.stats()")
+    fmt.Printf("   %-10s: %d\n", "stars", m.github.totalStars)
+    fmt.Printf("   %-10s: %d\n", "repos", m.github.totalRepos)
+    fmt.Printf("   %-10s: %d\n", "forks", m.github.totalForks)
+    fmt.Printf("   %-10s: %d\n", "followers", m.github.followers)
+    fmt.Printf("   %-10s: %d\n", "following", m.github.following)
+}
+
 func (m *manukq) connect() {
     fmt.Println("\n=> connect()")
     for platform, contact := range m.contacts {
@@ -54,16 +72,24 @@ func main() {
         frontend:  []string{"HTML5", "CSS3", "Next.js", "Tailwind CSS"},
         backend:   []string{"Node.js", ".NET"},
         databases: []string{"MongoDB", "MySQL"},
-        tools:     []string{"Git", "NGINX", "Figma","json/json5"},
+        tools:     []string{"Git", "NGINX", "Figma", "json/json5"},
         contacts: map[string]string{
             "discord":  "manukq_",
             "telegram": "@manukqq",
             "github":   "github.com/manukek",
         },
+        github: githubStats{
+            totalStars:  18,
+            totalRepos:  17,
+            totalForks:  3,
+            followers:   8,
+            following:   20,
+        },
     }
     
     dev.whoami()
     dev.stack()
+    dev.githubStats()
     dev.connect()
     
     fmt.Println("\n// server started on port :8080")
