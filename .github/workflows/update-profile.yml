@@ -21,8 +21,8 @@ jobs:
         run: |
           cat > update.js << 'EOF'
           (async () => {
-            const { Octokit } = await import("@octokit/rest");
-            const fs = await import("fs");
+            const { Octokit } = await require("@octokit/rest");
+            const fs = await require("fs");
 
             const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
             const username = "manukek";
