@@ -1,103 +1,77 @@
-# <div align="center">✨ Привет, мир! Я Manukq 👋</div>
 
-<div align="center">
-<h3 class="text">
-Программист - самоучка
-</h3>
-</div>
+```go
+// main.go
+package main
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manukek&color=yellow&style=for-the-badge" alt="Счетчик просмотров профиля"/>
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manukek/manukek/output/snake.svg" />
-</div>
+import (
+    "fmt"
+    "strings"
+)
 
-## <div align="center">📊 Моя GitHub статистика</div>
+type manukq struct {
+    name      string
+    role      string
+    languages []string
+    frontend  []string
+    backend   []string
+    databases []string
+    tools     []string
+    contacts  map[string]string
+}
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manukek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-</div>
+func (m *manukq) whoami() {
+    fmt.Printf("=> %s.whoami()\n", strings.ToLower(m.name))
+    fmt.Printf("   %s - %s\n", m.name, m.role)
+}
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manukek&theme=tokyonight&hide_border=true&layout=compact" width="55%" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=manukek&theme=discord&no-frame=true&column=3&row=2" width="49%" alt="GitHub Trophy"/>
-</div>
+func (m *manukq) stack() {
+    stacks := map[string][]string{
+        "languages": m.languages,
+        "frontend":  m.frontend,
+        "backend":   m.backend,
+        "databases": m.databases,
+        "tools":     m.tools,
+    }
+    
+    fmt.Println("\n=> stack()")
+    for key, items := range stacks {
+        fmt.Printf("   %-10s: %s\n", key, strings.Join(items, ", "))
+    }
+}
 
-## <div align="center">🚀 Стек разработки</div>
+func (m *manukq) connect() {
+    fmt.Println("\n=> connect()")
+    for platform, contact := range m.contacts {
+        fmt.Printf("   %-10s: %s\n", platform, contact)
+    }
+}
 
-<div align="center">
-  <h3>👨‍💻 Языки программирования</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
-    <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/>
-    <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="C#"/>
-    <img src="https://skillicons.dev/icons?i=golang" width="45" height="45" alt="golang"/>
-  </p>
-  
-  <h3 align="center">🌐 Frontend</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/>
-    <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/>
-    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
-  </p>
-  
-  <h3 align="center">⚙️ Backend</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
-    <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".NET"/>
-  </p>
-  
-  <h3 align="center">🛢️ Базы данных</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
-    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/>
-  </p>
-  
-  <h3 align="center">🧰 Инструменты и DevOps</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
-    <img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="NGINX"/>
-    <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"/>
-  </p>
+func main() {
+    dev := &manukq{
+        name: "Manukq",
+        role: "Программист-самоучка",
+        languages: []string{"JavaScript", "TypeScript", "C#", "Go"},
+        frontend:  []string{"HTML5", "CSS3", "Next.js", "Tailwind CSS"},
+        backend:   []string{"Node.js", ".NET"},
+        databases: []string{"MongoDB", "MySQL"},
+        tools:     []string{"Git", "NGINX", "Figma","json/json5"},
+        contacts: map[string]string{
+            "discord":  "manukq_",
+            "telegram": "@manukqq",
+            "github":   "github.com/manukek",
+        },
+    }
+    
+    dev.whoami()
+    dev.stack()
+    dev.connect()
+    
+    fmt.Println("\n// server started on port :8080")
+    fmt.Println("\n// localhost:8080\n 127.0.0.1:8080")
+}
 
-## <div align="center">🌟 Статистика Активности</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manukek&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## <div align="center">🎵 Последнее прослушанное</div>
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6aou46kfjndw4cwkwpzsbhcgy&redirect=true">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6aou46kfjndw4cwkwpzsbhcgy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
-      alt="Spotify GitHub Profile"
-    />
-  </a>
-</div>
-
-
-## <div align="center">📫 Связаться со мной</div>
-
-<div align="center">
-  <a href="https://discord.com/users/1030860815915548693" style="margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/manukqq" style="margin: 0 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="45" height="45" alt="Telegram"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/manukek" style="margin: 0 10px;">
-    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=90" width="100%" alt="Wave Footer"/>
-</div>
+```
+```go
+// bash
+go run main.go
+```
