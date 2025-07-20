@@ -44,7 +44,7 @@ func main() {
     dev := &manukq{
         name: "Manukq",
         role: "Программист-самоучка",
-        languages: []string{"JavaScript", "TypeScript", "C#", "Go"},
+        languages: []string{"JavaScript", "C#", "Go"},
         frontend:  []string{"HTML5", "CSS3", "Next.js", "Tailwind CSS"},
         backend:   []string{"Node.js", ".NET"},
         databases: []string{"MongoDB", "MySQL"},
